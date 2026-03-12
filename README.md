@@ -100,6 +100,7 @@ Sozialindex (GESIx 2022) auf LOR-Ebene zur Untersuchung sozioökonomischer Einfl
 ### 7. 👥 Einwohnerdaten – Statistik Berlin Brandenburg
 Gesamtbevölkerungsdaten Berlin 2020–2024 zur Analyse der Bevölkerungsdichte.
 👉 [Statistik Berlin Brandenburg](https://www.statistik-berlin-brandenburg.de/a-i-5-hj)
+
 ---
 ## Demo
 [![Dashboard Demo](https://img.youtube.com/vi/2cw5hLDTULg/maxresdefault.jpg)](https://youtu.be/2cw5hLDTULg)
