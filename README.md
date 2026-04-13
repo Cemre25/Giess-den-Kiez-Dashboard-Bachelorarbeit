@@ -1,5 +1,10 @@
 # Giess-den-Kiez-Dashboard-Bachelorarbeit
 
+> 🔧 **Data Engineering Weiterentwicklung**
+> Dieses Dashboard wird im Rahmen eines persönlichen Lernprojekts 
+> zu einer automatisierten Datenpipeline ausgebaut.
+> → [giess-den-kiez-pipeline](https://github.com/Cemre25/GdK-Pipeline-BA-erweiterung)
+
 Ein interaktives R Shiny Dashboard zur Analyse der Bewässerungsdaten des Berliner Projekts [Gieß den Kiez](https://www.giessdenkiez.de/). Entwickelt im Rahmen einer Bachelorarbeit an der **Technischen Hochschule Wildau**.
 
 ---
@@ -106,6 +111,12 @@ Gesamtbevölkerungsdaten Berlin 2020–2024 zur Analyse der Bevölkerungsdichte.
 [![Dashboard Demo](https://img.youtube.com/vi/2cw5hLDTULg/maxresdefault.jpg)](https://youtu.be/2cw5hLDTULg)
 
 ---
+
+## 🔗 Verwandte Projekte
+
+| Repo | Beschreibung |
+|------|-------------|
+| [giess-den-kiez-pipeline](https://github.com/Cemre25/GdK-Pipeline-BA-erweiterung) | Automatisierte ETL-Pipeline mit Python, Airflow & PostgreSQL |
 
 ## 📜 Lizenz
 
